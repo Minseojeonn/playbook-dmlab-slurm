@@ -1,3 +1,5 @@
+# !UNDER WRITING
+
 # Slurm Cluster Setup with Ansible for DMLAB@SSU
 
 This repository provides an Ansible-based solution for setting up a cluster using Slurm. Slurm (Simple Linux Utility for Resource Management) is a highly scalable cluster management and job scheduling system. This project helps automate the process of deploying and configuring Slurm components across a cluster.
