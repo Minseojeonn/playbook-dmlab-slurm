@@ -1,0 +1,6 @@
+Master_Node
+"write master ip"
+Slave_Node
+"write slave 1 ip"
+"write slave 2 ip"
+END
